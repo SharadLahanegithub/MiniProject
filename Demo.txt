@@ -1,1 +1,10 @@
 This is demo code for Mini project
+
+We are working on Git functionality
+
+Topic covered
+Db
+Collection
+String
+
+Read to update code
